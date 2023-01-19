@@ -6,7 +6,7 @@ Library to do a few things
 - Then add **_libNewLibrary_** to projects folder
 
 # To use Library
-- Look at **_NewLibrary Docs_** 
+- Look at **_NewLibrary Docs_** (You'll need to unzip it first and only viewable on macOS)
 - Can use
 
 ```
