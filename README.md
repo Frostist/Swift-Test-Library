@@ -1,4 +1,4 @@
-# NewLibrary
+# My First Swift Library for Xcode
 Library to do a few things
 
 # Instructions
